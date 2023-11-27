@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "title": "Today",
+        "text": "Nothing to do",
+        "note_id": "898936ef-8e9c-42b7-aa83-0c97335e24d6"
+    },
+    {
+        "title": "Tomorrow",
+        "text": "Nothing to do",
+        "note_id": "e67800c8-b13f-4e59-856d-ddb367691e1c"
+    },
+    {
+        "title": "Day after tomorrow",
+        "text": "still nothing todo",
+        "note_id": "a7d464b6-df4d-4c29-a8c3-a29180627ee8"
+    }
+]
